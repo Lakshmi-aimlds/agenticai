@@ -11,3 +11,5 @@ bs4
 arxiv
 pymupdf
 wikipedia
+youtube_search
+langchain-tavily
